@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "name": {
+      "type": "string",
+      "store": "yes"
+    },
+    "price": {
+      "type": "integer",
+      "store": "yes"
+    },
+    "sold": {
+      "type": "integer",
+      "store": "yes"
+    }
+  }
+}
